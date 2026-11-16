@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# produced by the pipeline (see code/README.md), not part of the repository
+data/
+results/
+figures/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+# packages named in code/README.md (Python 3.10+); floors chosen for 3.10 compatibility
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+matplotlib>=3.6
